@@ -1,8 +1,11 @@
-Hi there! 
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning different topics in Data science such as Time Series, Neural Network and GIS and spatial data
-- 💞️ I’m looking to collaborate on any Data Science projects
-- 📫 Contact me by email at xiongl795@gmail.com
+# Hi there!👋🏽
+
+### A little about me:
+
+- 👩🏽‍💼 I’m Lilly, a big data enthusiast 
+- 😍🧠 I am interested in EVERYTHING
+- ❤ Love working with numbers and learning new skills
+- 😁💡 Know SQL, Python, Javascript, and Tableau
 
 <!---
 XiongLilly/XiongLilly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
