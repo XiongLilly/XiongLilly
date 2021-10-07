@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @XiongLilly
+Hi there! 
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning different topics in Data science such as Time Series, Neural Network and GIS and spatial data
 - 💞️ I’m looking to collaborate on any Data Science projects
